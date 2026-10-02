@@ -1,0 +1,6 @@
+{
+  "name": "AudioTranscripción Pro - Transcribe Audios de hasta 4+ Horas",
+  "description": "Herramienta profesional con IA Gemini para convertir audios y videos de hasta 4 horas a texto estructurado con marcas de tiempo, oradores, resumen ejecutivo y exportación en múltiples formatos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
